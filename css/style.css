@@ -1,0 +1,11 @@
+:root {
+    --spacing-32px: 32px;
+    --spacing-20px: 20px;
+    --spacing-12px: 12px;
+    --wide-3px-border: 3px;
+
+    --purple-900: #24053E;
+    --green: #44FFA1;
+
+    --font-size-48px: 48px;
+}
